@@ -124,7 +124,7 @@ System.InvalidOperationException: Тестовое исключение
 System.InvalidOperationException: Тестовое исключение
    at Program.Main() in C:\Users\Vanilla76e2\source\repos\VanillasLogger\ConsoleApp1\Program.cs:line 27
 
-=== Причина аварии ===
+=== Причина краха ===
 Сообщение: Создание краш-лога из теста
 Дата: 2025-09-24 15:00:49.929 +05:00
 Исключение:
